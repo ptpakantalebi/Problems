@@ -1,0 +1,1 @@
+print(str(((int(input('enter the number: ')))-(int(input('enter the number: '))))*365)[1:])
